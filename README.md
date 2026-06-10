@@ -2,9 +2,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izza-abda-maulana-012335323)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mhmd_izzaa)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/muhammadizza.izza.1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username_kamu)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/username_kamu)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/username_kamu)
 
 <br><br>
 <img src="assets/obitoLaugh.gif" width="30%" alt="Obito vs Kakashi">
@@ -21,12 +21,14 @@
 </p>
 </div>
 
-![Tech Stack](https://capsule-render.vercel.app/api?type=transparent&color=0:0d1117,100:1f2937&height=90&text=Tech%20📚%20Stack&fontSize=27&fontColor=ffffff)
+<br><br>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,python,cpp,mysql,git,github,vscode,linux&perline=15" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:0d1117,100:1f2937&height=65&text=Tech%20📚%20Stack&fontSize=25&fontColor=ffffff" alt="Tech Stack Header">
+  <br>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,mysql,git,github,vscode,linux&perline=15" alt="Icons" />
 </div>
 
-<br>
+<br><br>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:0d1117&height=120&section=footer)
