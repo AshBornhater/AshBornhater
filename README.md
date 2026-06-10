@@ -1,25 +1,21 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2937&height=180&section=header&text=Muhammad%20Izza&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20Student%20•%20Java%20Developer&descAlignY=60&descColor=c9d1d9)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2937&height=180&section=header&text=Izza%20Maulana&fontSize=37&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=CompScie%20Student%20|%20Data%20Enthusiast&descAlignY=60&descColor=c9d1d9&descSize=12)
 
 <div align="center">
-
-# Hi there 👋, &lt; devs /&gt;
-
 <p>
-My name is Muhammad Izza. A passionate developer from Indonesia. My main areas of interest are web and mobile development. Right now, I'm learning Flutter. Aside from this, I also enjoy software engineering, UI/UX design, and problem solving. In my spare time, I enjoy reading and playing chess.
+  👋 Hi, I'm <b>Izza Maulana</b>. <br>
+  💻 <b>Computer Science Student</b> & <b>Data Enthusiast</b> <br>
+  📚 A lifelong learner currently diving deep into the world of <b>AI & Machine Learning</b>
 </p>
-
-<br>
-
-# Tech 📚 Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,php,dart,python,kotlin,bash,html,css,js,mysql,postgres,laravel,flutter,tailwind,git,github,firebase,heroku,androidstudio,vscode,vim,idea,ai,ps,linux" />
-
-</p>
+</div>
 
 </div>
 
-<br>
+![Tech Stack](https://capsule-render.vercel.app/api?type=transparent&color=0:0d1117,100:1f2937&height=90&text=Tech%20📚%20Stack&fontSize=27&fontColor=ffffff)
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,mysql,git,github,vscode,linux&perline=15" />
+
+</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:0d1117&height=120&section=footer)
