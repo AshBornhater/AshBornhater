@@ -31,7 +31,7 @@
 
 <br><br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshBornhater&layout=donut&theme=calm&hide_border=true" width="400" alt="Top Languages Donut" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshBornhater&layout=compact&theme=calm&hide_border=true" width="400" alt="Top Languages Donut" />
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:0d1117&height=120&section=footer)
