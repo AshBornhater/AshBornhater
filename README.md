@@ -26,7 +26,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:0d1117,100:1f2937&height=65&text=Tech%20📚%20Stack&fontSize=25&fontColor=ffffff" alt="Tech Stack Header">
   <br>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,mysql,git,github,vscode,linux&perline=15" alt="Icons" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,flutter,mysql,git,github,vscode,linux&perline=15" alt="Icons" />
 </div>
 
 <br><br>
