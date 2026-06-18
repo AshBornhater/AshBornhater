@@ -34,4 +34,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshBornhater&layout=donut&theme=calm&hide_border=true&cache_seconds=1800" width="400" alt="Top Languages Donut" />
 </p>
 
+---
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Hirsya&theme=github_dark" alt="GitHub Streak" />
+</p>
+
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Hirsya&label=Profile%20views&color=0e75b6&style=flat" alt="Hirsya" />
+  <br>
+</p>
+
+<!-- Green Forsest : day 1 -->
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:0d1117&height=120&section=footer)
