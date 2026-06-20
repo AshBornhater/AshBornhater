@@ -42,7 +42,7 @@
 
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Hirsya&label=Profile%20views&color=0e75b6&style=flat" alt="Hirsya" />
+<img src="https://komarev.com/ghpvc/?username=AshBornhater&label=Profile%20views&color=0e75b6&style=flat" alt="AshBornhater" />
   <br>
 </p>
 
