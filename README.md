@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2937&height=180&section=header&text=Izza%20Maulana&fontSize=37&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Informatics%20Engineering%20Student%20|%20Data%20Enthusiast&descAlignY=60&descColor=c9d1d9&descSize=12)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2937&height=180&section=header&text=Izza%20Maulana&fontSize=37&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Data%20Enthusiast&descAlignY=60&descColor=c9d1d9&descSize=12)
 
 <div align="center">
 
@@ -16,7 +16,7 @@
 <div align="center">
 <p>
   👋 Hi, I'm <b>Izza Maulana</b>. <br>
-  💻 <b>Informatics Engineering Student</b> & <b>Data Enthusiast</b> <br>
+  📊 <b>Data Enthusiast</b> <br>
   📚 A lifelong learner currently diving deep into the world of <b>AI & Machine Learning</b>
 </p>
 </div>
