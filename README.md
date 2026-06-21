@@ -37,7 +37,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Hirsya&theme=github_dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=AshBornhater&theme=github_dark" alt="GitHub Streak" />
 </p>
 
 
