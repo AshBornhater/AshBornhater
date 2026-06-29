@@ -7,6 +7,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/muhammadizza.izza.1)
 
 <br><br>
+
 <img src="assets/obitoLaugh.gif" width="30%" alt="Obito vs Kakashi">
 
 </div>
@@ -14,11 +15,11 @@
 <br>
 
 <div align="center">
-<p>
-  👋 Hi, I'm <b>Izza Maulana</b>. <br>
-  📊 <b>Data Enthusiast</b> <br>
-  📚 A lifelong learner currently diving deep into the world of <b>AI & Machine Learning</b>
-</p>
+
+👋 Hi, I'm **Izza Maulana**.  
+📊 **Data Enthusiast**  
+📚 A lifelong learner currently diving deep into the world of **AI & Machine Learning**
+
 </div>
 
 <br><br>
@@ -26,26 +27,35 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:0d1117,100:1f2937&height=65&text=Tech%20📚%20Stack&fontSize=25&fontColor=ffffff" alt="Tech Stack Header">
   <br>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,flutter,mysql,git,github,vscode,linux&perline=15" alt="Icons" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,flutter,mysql,git,github,vscode,linux&perline=15" alt="Tech Stack"/>
 </div>
 
-<br><br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshBornhater&layout=donut&theme=calm&hide_border=true&cache_seconds=1800" width="400" alt="Top Languages Donut" />
-</p>
+<br>
 
 ---
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:0d1117,100:1f2937&height=65&fontSize=25&fontColor=ffffff" alt="GitHub Statistics Header">
+
+  <img
+    height="170"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AshBornhater&layout=donut&theme=calm&hide_border=true&langs_count=8"
+    alt="Top Languages"
+  />
+
+  <img
+    height="170"
+    src="https://github-readme-stats-fast.vercel.app/api/streak?username=AshBornhater&theme=calm&hide_border=true"
+    alt="GitHub Streak"
+  />
+
+</div>
+
+<br>
+
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=AshBornhater&theme=github_dark" alt="GitHub Streak" />
+  <img src="https://komarev.com/ghpvc/?username=AshBornhater&label=Profile%20views&color=0e75b6&style=flat" alt="AshBornhater" />
 </p>
-
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=AshBornhater&label=Profile%20views&color=0e75b6&style=flat" alt="AshBornhater" />
-  <br>
-</p>
-
-<!-- Green Forsest : day 1 -->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:0d1117&height=120&section=footer)
+```
